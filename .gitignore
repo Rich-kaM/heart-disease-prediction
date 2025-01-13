@@ -1,0 +1,18 @@
+
+# Virtual environment
+myenv/
+
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Cache files
+*.cache
+*.egg-info/
+
