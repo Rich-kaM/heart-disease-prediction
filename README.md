@@ -17,7 +17,7 @@ A heart attack (cardiovascular disease) occurs when the flow of blood to the hea
 
 This project utilizes a dataset containing medical information about patients, aiming to predict whether an individual has a higher or lower risk of heart disease. Through data exploration, preprocessing, and applying various machine learning models, the goal is to classify the target variable and identify the most suitable algorithm for this dataset.
 
-![Heart Disease Prediction Overview](https://drive.google.com/file/d/1Rb-q853q19R0K291HK-7H96uX3JQscFr/view?usp=share_link)
+![Heart Disease Prediction Overview](Picture/heart-disease.webp)
 
 ## Features and Workflow
 1. **Data Preprocessing:**
@@ -50,7 +50,7 @@ This project utilizes a dataset containing medical information about patients, a
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rich-kaM/heart-disease-prediction.git
+   git clone https://github.com/Rich-kaM/.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -93,5 +93,3 @@ These findings emphasize the importance of data-driven approaches in healthcare,
 For questions or feedback, please reach out to me at:
 - **Email:** [richardmukulu73@gmail.com](mailto:richardmukulu73@gmail.com)
 - **GitHub:** [My GitHub Profile](https://github.com/Rich-kaM)
-
-
