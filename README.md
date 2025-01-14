@@ -5,7 +5,7 @@
 2. [Features and Workflow](#features-and-workflow)
 3. [Technologies Used](#technologies-used)
 4. [Results](#results)
-5. [Highlight Visualizations:](#Highlight-Visualizations:)
+5. [Highlight_Visualizations:](#Highlight-Visualizations:)
 6. [How to Run](#how-to-run)
 7. [Dataset](#dataset)
 8. [Conclusion](#conclusion)
